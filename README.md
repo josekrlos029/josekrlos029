@@ -30,7 +30,7 @@
 </div>
 <!--tech stack icons-->
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://www.linkedin.com/in/jose-carlos-jimenez-59885976/">
     <img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,docker,kafka,rabbitmq,redis,java,kotlin,cs,dart,js,ts,php,dotnet,laravel,nestjs,react,angular,flutter,express,graphql,postgres,elasticsearch,mongodb,dynamodb,git,github,gitlab,bitbucket,bootstrap,css,androidstudio&perline=11" />
   </a>
 </p>
