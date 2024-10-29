@@ -13,8 +13,6 @@
   - Node.js
   - ReactJS
 
-- 🤝 I’m available for freelancing.
-
 - 🌱 I’m currently doing a <a href="https://udavinci.edu.mx/maestrias-en-linea/maestria-en-inteligencia-artificial" target="blank">master's degree in AI</a>
 
 - 💬 Ask me about **Spring Boot & Elasticsearch**
@@ -22,6 +20,8 @@
 - 📫 How to reach me **josekrlos029@gmail.com**
   
 - 🤝 CTO - <a href="https://palladiumdev.com" target="blank">Palladium Tec SAS</a>
+
+- 🤝 I’m available for business.
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
